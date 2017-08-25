@@ -138,10 +138,16 @@ add this to the file
 Push your _server.js_ file and the _Procfile_ to your github repository.
 
 ## Exercise: Deploy the site to heroku
-TODO: write tutorial    
-Please help. Fork this repository, Write the tutorial and create a pull request.
+#### TODO: write tutorial 
+Dette gøres ved at vælge github somm deployment method efter at have oprettet et projekt på Heroku.
 
+Derpå vil man blive bedt om at specificere et repository. Ved at klikke på 'Search' knappen, kan man få fremvist en liste af repositories der er tilknyttet en github account.
 
+Herfra er det blot at vælge et repository, og klikke 'connect'.
+
+Så vil der dukke et vindue op, hvori Heroku vil bede om lov til at interagere med din github account. Hvis du allerede er logget ind, er det så simpelt som at klikke på den grønne knap, ellers vil der formentlig være behov for at logge ind først.
+
+Når dette så er gjort, er forbindelsen mellem de to accounts oprettet, og dette skridt er afsluttet.
 
 ## Connect a simple frontend HTML and JQuery app to the API
 
